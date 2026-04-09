@@ -1,6 +1,6 @@
 # Stackflow_backend_assessment - Technical Assessment
 ## Overview
-This repository contains the technical solution for the StockFlow B2B inventory platform. It includes a code review of existing endpoints, a scalable database schema design, and a low-stock alert API implementation.
+This repository is for the technical solution for the StockFlow B2B inventory platform. It contains a code review of existing endpoints, a scalable database schema design, and a low-stock alert API implementation.
 
 ## Structure
 * `debugging`: Analysis and corrected code for the Product Creation API.
